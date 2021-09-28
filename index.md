@@ -1,4 +1,5 @@
-<head>
+<!DOCTYPE html>
+	<head>
 		<title>Simulazione Tenzone Dantesca</title>
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -27,3 +28,4 @@
 		<script type="text/javascript" src="script.js"></script>
 		<script type="text/javascript" src="graphics.js"></script>
 	</body>
+</html>
